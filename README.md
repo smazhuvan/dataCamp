@@ -7,7 +7,7 @@ They are revolutionizing data science education. They believe data fluency helps
 
 Visit @ www.datacamp.com
 
-Day 1 - 27/09/2019
+## Day 1 - 27/09/2019
 
 Exercises Aced = 11
 Experience Gained = 1650
