@@ -9,5 +9,6 @@ Visit @ www.datacamp.com
 
 ## Day 1 - 27/09/2019
 
-Exercises Aced = 11
+#### Python Programming <br>
+Exercises Aced = 11 <br>
 Experience Gained = 1650
